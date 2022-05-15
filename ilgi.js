@@ -16,7 +16,7 @@ fetch(url)
         //resim.innerHTML += `<img height="350" width="400" style="margin-left:10px;" src="${element.image}"/>`
        resim.innerHTML+= `<div class="row" style="margin:50px;">
         <div class="col-sm-4 mx-auto " style="background-color:bisque;">
-        <img height="350" width="400" style="margin-left:10px;" src="${element.image}">
+        <img class="ilgi" height="350" width="400"  src="${element.image}">
         </div>
         <div class="col-sm-4 " style="background-color:bisque;">
         <br>
